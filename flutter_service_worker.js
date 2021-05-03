@@ -30,14 +30,14 @@ const RESOURCES = {
 "assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/fonts/Montserrat-SemiBold.ttf": "c641dbee1d75892e4d88bdc31560c91b",
 "assets/fonts/Montserrat-Thin.ttf": "43dd5b7a3d277362d5e801e5353e3a01",
-"assets/NOTICES": "04dc32088ec6aba08051526effee42ab",
+"assets/NOTICES": "6229dad51f888b8f239be2afb025d93e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1fdde2e4d4b7a912ae7c9fd193321bf1",
-"/": "1fdde2e4d4b7a912ae7c9fd193321bf1",
-"main.dart.js": "bf79ac2ef49b80062bd55011bf5c71c8",
+"index.html": "86808867d215dd69987f81deb98a29b3",
+"/": "86808867d215dd69987f81deb98a29b3",
+"main.dart.js": "846183e9d4496947a631696607fded31",
 "manifest.json": "f44db9cf4532d348bc36de8e04e8da61",
 "version.json": "6fc26d2862c6e55150495691da46873d"
 };
